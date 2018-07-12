@@ -1,0 +1,25 @@
+{
+  "name": "react-redux-newsfeed-spa",
+  "version": "1.0.0",
+  "description": "Simple single page application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProAnastasia/react-redux-newsfeed-spa.git"
+  },
+  "keywords": [
+    "spa",
+    "react",
+    "redux",
+    "webpack"
+  ],
+  "author": "ProAnastasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProAnastasia/react-redux-newsfeed-spa/issues"
+  },
+  "homepage": "https://github.com/ProAnastasia/react-redux-newsfeed-spa#readme"
+}
